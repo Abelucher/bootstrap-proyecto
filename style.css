@@ -7,6 +7,10 @@ body {
 
 .cover {
   height:400px;
-  background-color:red;
+  background-image:url(https://cdn.glitch.com/7dd4606e-767b-4ab4-9527-c2cc5dc4fcb8%2Frsz_andy-holmes-eoakuqcsfiu-unsplash.jpg?v=1624936464161);
   color:white;
+  background-size: cover;
+  background-position:center;
+  background-color:rgba(0,0,0,0.6);
+  background-blend-mode: darken;
 }
