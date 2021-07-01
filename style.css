@@ -32,3 +32,16 @@ body {
 .card-text{
   min-height:5rem;
 }
+.stripe-container{
+  display:flex;
+}
+
+.stripe-container .card{
+  width:300px;
+  flex-shrink:0;
+  margin-right:1rem;
+}
+
+.product-srtipe {
+  overflow-x:scroll;
+}
